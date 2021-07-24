@@ -1,0 +1,15 @@
+ body {
+    grid-area: sidebar;
+    background: black ;
+    justify-content: center;
+ }
+ hero {
+     background-color :blue;
+     background: blueviolet;
+ } 
+ h3 {
+     color: white;
+ }
+ h2 {
+     color: white;
+ }

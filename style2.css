@@ -1,0 +1,37 @@
+.hero {
+    max-width: 90 px;
+    margin: 0 auto;
+    text-align :justify;
+}
+ 
+.content {
+    grid-area: content;
+}
+.paragraf2 {
+    grid-area: span;
+}
+.hero-content{
+        grid-area: sidebar;
+        justify-content: center;
+        color: white;
+        }
+.ini {
+    max-width: 90 px;
+    margin: 0 auto;
+    text-align :justify;
+}
+h3 {
+    color: white;
+}
+.hobi{
+    color: white ;
+    background-image: image-set(bg1,jpg);
+    border: 1px;
+}
+body {
+    color: black;
+    background-color: black;
+}
+h1{
+    color: white;
+}
